@@ -2,14 +2,14 @@
 # Learning Path
 ## BASICs
 ### HTML 
--HTML Introduction 
--HTML Strucuture (!Doctype, HTML, head, body)
--HTML Elements(h1 to h6, p, a, img, ul, li)
--HTML Atribute (class, id, src, alt, href)
--HTML tables (table, tr, td, th)
--HTML Links and Navigation(a, internal and external)
--HTML Images (src, style, alt)
--HTML list(ul, ol, li)
+- HTML Introduction 
+- HTML Strucuture (!Doctype, HTML, head, body)
+- HTML Elements(h1 to h6, p, a, img, ul, li)
+- HTML Atribute (class, id, src, alt, href)
+- HTML tables (table, tr, td, th)
+- HTML Links and Navigation(a, internal and external)
+- HTML Images (src, style, alt)
+- HTML list(ul, ol, li)
 
 ### CSS 
 -CSS Introduction 
