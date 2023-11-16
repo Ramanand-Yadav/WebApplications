@@ -1,0 +1,40 @@
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td{
+    background-color: #96D4D4;
+}
+a:link{
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited{
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active{
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+/* button Link
+    a:link, a:visited{
+    background-color: #f44336;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+a:hover,a:active{
+    background-color: red;
+} */
