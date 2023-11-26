@@ -25,6 +25,11 @@ a:active{
     background-color: transparent;
     text-decoration: underline;
 }
+.para{
+    height: auto;
+    width: auto;
+    background-color: gray;
+}
 
 /* button Link
     a:link, a:visited{
