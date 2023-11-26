@@ -30,6 +30,18 @@ a:active{
     width: auto;
     background-color: gray;
 }
+.specificity{
+    color: aqua;
+    background-color: blueviolet;
+    width: 50%;
+    text-align: center;
+    height: auto;
+    font-size: xx-large;
+    font-style: bold;
+}
+#space{
+    color: red;
+}
 
 /* button Link
     a:link, a:visited{

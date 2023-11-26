@@ -32,3 +32,7 @@
 -Function(blocks of code, argument, return)
 -Array(read/write, loop, push, pop, shift, unshift, indexOf)
 -Object(Properties, read/write)
+
+
+css specificity : 
+inline CSS > selector id > Selector class > element selector

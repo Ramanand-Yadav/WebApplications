@@ -15,3 +15,13 @@ function myFunciton(){
         checkClickCount();
     });
 }
+let myImage = document.querySelector("img");
+
+myImage.onclick=()=>{
+    const mySrc = myImage.getAttribute("src");
+    if(mySrc== "/HTML/images/restaurant.jpg"){
+        myImage.setAttribute("src", "/HTML/images/download.jpeg");
+    }else{
+        myImage.setAttribute("src", "/HTML/images/restaurant.jpg");
+    }
+}
