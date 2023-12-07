@@ -36,3 +36,34 @@
 
 css specificity : 
 inline CSS > selector id > Selector class > element selector
+
+
+## Intermediate
+### HTML
+-HTML Layout(display, divs, span, margin, padding, box model)
+-HTML Semantic Element(header, nav, article, section, footer)
+-HTML Audio and Video
+-HTML forms(form, input, select, textarea)
+-HTML Form Validatoin(required, pattern)
+-HTML CSS Integration(Inline, style, link )
+-HTML Comments
+
+### CSS 
+-CSS layout(Position, Grid, firebox)
+-CSS responsive design (media query, fluid image, responsive topography)
+-CSS Image responsive(picture, secret size)
+-CSS Flexbox(flex, flex-shrink, flex-basic, flex-direction)
+-CSS Grid(grid-template areas, grid template rows, grid-template columns)
+-CSS pseudo selectors/elements(:hover, :focus, :first-child, :before, :after)
+-CSS Variables
+-CSS typography(font-face, font-variants, text-shadow, text-transform)
+
+### JS
+-Array & Method(map, filter, reduce, foreach, find)
+-Strings(length, indexOf, slice, substring, )
+-Dom Manipulation(getElementById, querySelector, getElementbyClassName, append, appendChild, remove)
+-Event Handling(clicks, mouse events, keyboard, scroll)
+-Asynchronous Programming(setInterval, setTimeOut, asynch/await, promises,callback)
+-Function Programming(pure function, immutability, declarative code)
+-Scope and Closure(life cycle, hosting, closure)
+
